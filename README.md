@@ -41,6 +41,7 @@ Spatio-Temporal-Analysis-Project/
 │-- Balmain_final.csv                # Dataset
 │-- sensors.csv                      # Dataset
 │-- README.md                         # Project documentation
+│-- requirements.txt                        # Requirements txt file
 ```
 
 ## Contribution
