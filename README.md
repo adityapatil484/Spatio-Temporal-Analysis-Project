@@ -27,7 +27,7 @@ Ensure you have the following installed:
    ```
 3. Install dependencies:
    ```sh
-   pip install pandas numpy matplotlib seaborn folium statsmodels
+   pip install -r requirements.txt
    ```
 4. Open Jupyter Notebook and run it:
    ```sh
