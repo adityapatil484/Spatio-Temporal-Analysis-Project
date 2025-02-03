@@ -53,5 +53,5 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## Contact
 For questions or suggestions, reach out:
-- **Author**: adityapatil484
+- **Author**: Aditya Patil
 - **GitHub**: [adityapatil484](https://github.com/adityapatil484)
